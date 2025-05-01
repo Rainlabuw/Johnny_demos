@@ -15,3 +15,9 @@ Data being received by an agent on a ubuntu system(right) while the server is ru
 
 ![server](https://github.com/user-attachments/assets/4886f396-0165-402e-8b8c-a073b0f54bdc)
 ![traj](https://github.com/user-attachments/assets/8e41a3e1-c557-426d-a3a7-4cc0871b9188)
+
+
+[Screencast from 04-28-2025 04_54_19 PM.webm](https://github.com/user-attachments/assets/1815b018-612f-4c95-8a6f-42296d195e50)
+
+[Screencast from 04-28-2025 04_28_24 PM.webm](https://github.com/user-attachments/assets/7c3a8735-63ca-48e4-a366-a2ea52e49d47)
+
